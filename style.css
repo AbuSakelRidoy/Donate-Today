@@ -1,0 +1,243 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.Donate-section {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 120px;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+.Donate-text {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Donate-btn {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 20px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+}
+.l-btn {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 20px 30px;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+}
+#b11{
+    margin-bottom: 50px;
+}
+
+.Donate-amount {
+    text-align: center;
+}
+
+.Donate-amount h1 {
+    text-align: center;
+    color: black;
+}
+
+.Donate-amount p {
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+
+.Amount {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.Amount .box {
+    padding: 30px 25px;
+    font-size: 27px;
+    color: rgb(105, 102, 102);
+    background-color: rgb(245, 243, 243);
+    margin: 10px;
+    font-weight: 700;
+}
+
+.Amount .second {
+    background-color: #ebd8d8;
+    color: #e24d4d;
+    border: 2px solid rgb(240, 90, 90);
+    border-radius: 5px;
+}
+
+.amout_input input {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+.Amount .donate_btn {
+    margin-top: 20px;
+}
+
+hr {
+    width: 60%;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.contact {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 140px;
+    padding: 100px;
+    background-color: rgb(233, 210, 210);
+    text-align: center;
+
+}
+
+.contact .input_btn {
+    display: flex;
+    justify-content: start;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.contact .input_btn input {
+    padding: 12px;
+    background-color: rgb(184, 177, 177);
+    outline: none;
+    border: 0;
+}
+
+.contact .input_btn button {
+    background-color: #e24d4d;
+    color: white;
+    outline: none;
+    border: 0;
+    padding: 0px 20px;
+}
+
+.Food-shelter-education {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.fse-sec {
+    margin-top: 50px;
+}
+
+.fse {
+    text-align: center;
+}
+
+.Food-shelter-education {
+    display: flex;
+    margin-top: 60px;
+}
+
+.width1 {
+    width: 33%;
+    background-color: rgb(164, 180, 189);
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.width2 {
+    width: 33%;
+    background-color: rgb(32, 119, 134);
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.width3 {
+    width: 33%;
+    background-color: rgb(102, 151, 192);
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.lives-on-donation {
+    text-align: left;
+}
+
+.Bonus-content1 {
+    display: flex;
+    margin-top: 80px;
+}
+.Bonus-content2 {
+    display: flex;
+    margin-top: 80px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.Update {
+    text-align: center;
+    text-decoration: none;
+}
+
+.Update-h {
+    text-align: center;
+    color: black;
+}
+
+.Update p {
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.footer-content {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #111;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: #ff3333;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+span {
+    color: aliceblue;
+}
