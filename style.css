@@ -1,4 +1,6 @@
 body {
+    padding: 0;
+    margin: 0;
     font-family: 'Inter', sans-serif;
 }
 
@@ -38,6 +40,7 @@ h1 {
     color: white;
     font-weight: 700;
 }
+
 .l-btn {
     text-decoration: none;
     background-color: tomato;
@@ -48,7 +51,8 @@ h1 {
     color: white;
     font-weight: 700;
 }
-#b11{
+
+#b11 {
     margin-bottom: 50px;
 }
 
@@ -196,6 +200,7 @@ hr {
     display: flex;
     margin-top: 80px;
 }
+
 .Bonus-content2 {
     display: flex;
     margin-top: 80px;
@@ -230,8 +235,6 @@ hr {
     padding: 0;
     box-sizing: border-box;
     background: #111;
-    height: auto;
-    width: 100vw;
     padding-top: 40px;
     color: #ff3333;
     text-align: center;
